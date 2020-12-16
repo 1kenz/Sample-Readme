@@ -123,3 +123,10 @@ MIT © [Yourname]()
 - [Readme Template](https://github.com/dbader/readme-template)
 - [Readme Best Practices](https://github.com/jehna/readme-best-practices)
 - [The Most Important Code Isn't Code](https://zachholman.com/posts/documentation/)
+
+<hr>
+<p>You can check some websites for stats and shields</p>
+
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)
+- [Shields IO](https://shields.io/)
